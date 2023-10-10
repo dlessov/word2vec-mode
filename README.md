@@ -1,0 +1,2 @@
+# word2vec-mode
+The word2vec model's evaluation focused on prediction accuracy and used the CBOW architecture on a small dataset. After training, word clustering experiments were conducted, visualized using t-SNE, to reveal semantic relationships between words. The choice of 'k' for clustering influenced cluster granularity, impacting how words were grouped based on their training data relationships.
